@@ -23,7 +23,7 @@ git clone https://github.com/fw876/helloworld.git package/ssr
 git clone https://github.com/firker/diy-ziyong.git package/diy-ziyong
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 git clone https://github.com/kiddin9/openwrt-bypass.git package/openwrt-bypass
-git clone https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-poweroff.git package/luci-app-poweroff
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-poweroff
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
 git clone -b luci https://github.com/xiaorouji/openwrt-passwall package/passwall
 # git clone https://github.com/xiaorouji/openwrt-passwall2.git package/passwall2
