@@ -20,7 +20,7 @@ on:
     - cron: 0 21 */7 * * 
 
 env:
-  REPO_URL: https://github.com/immortalwrt/immortalwrt/tree/master
+  REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: openwrt-Project.config
